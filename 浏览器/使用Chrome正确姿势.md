@@ -1,7 +1,9 @@
 分享一下常用的Chrome 插件
 首先你需要安装的是[谷歌浏览器](https://pc.qq.com/detail/1/detail_2661.html)  
 这里附带一个运行可能会崩溃的问题解决方案 [把那个文件重命名或者删除就行](https://www.zhihu.com/question/29305453)  
-如果你找不到地方下载插件，还可以在这里下载 插件下载地址[https://www.crx4chrome.com](https://www.crx4chrome.com/)  
+如果你找不到地方下载插件，还可以在这里下载 插件下载地址[https://www.crx4chrome.com](https://www.crx4chrome.com/) 
+## [crosswallSwitch](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)
+
 ## [surfingkeys](https://www.crx4chrome.com/extensions/gfbliohnnapiefjpjlpjnehglfpaknnc/)
 安装好以后,你可以简单试一下
 - 回到顶部:`gg`  到最底部 `shift +g`
