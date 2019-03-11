@@ -1,11 +1,11 @@
 分享一下常用的Chrome 插件
 首先你需要安装的是[谷歌浏览器](https://pc.qq.com/detail/1/detail_2661.html)
 这里附带一个运行可能会崩溃的问题解决方案 [把那个文件重命名或者删除就行](https://www.zhihu.com/question/29305453)
-如果你找不到地方下载插件，还可以在这里下载 [插件下载地址](https://www.crx4chrome.com/)
+如果你找不到地方下载插件，还可以在这里下载 插件下载地址[https://www.crx4chrome.com](https://www.crx4chrome.com/)
 然后隆重推荐的第一款插件是
-##[surfingkeys](https://www.crx4chrome.com/extensions/gfbliohnnapiefjpjlpjnehglfpaknnc/)
+## [surfingkeys](https://www.crx4chrome.com/extensions/gfbliohnnapiefjpjlpjnehglfpaknnc/)
 安装好以后,你可以简单试一下
- - 回到顶部:`gg`  到最底部 `shift +g`
+- 回到顶部:`gg`  到最底部 `shift +g`
 - 关掉当前tab:`x`  恢复 ;刚关闭的界面`shift +x`
 - 跳转到左边标签 `shift+e` 跳转到右边标签 `shift+R`
 - 刷新当前界面 `r`
@@ -14,12 +14,15 @@
 ![快速跳转](http://upload-images.jianshu.io/upload_images/6717924-ad5968ce06997a9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 浏览器就是你的工具， 推荐给浏览器小白 一些常用技能
-##[使用用收藏工具栏时间]()
+## [使用用收藏工具栏时间]()
 ![image.png](https://upload-images.jianshu.io/upload_images/6717924-f41cc5c45ea77100.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 把自己的各种网页按照不同类别收藏起来，以便自己快速的打开。这个应该算是比较基本技能了吧!![你可以在文件夹里面点击右键，然后再点击`g`,就能保存到当前的文件夹了](https://upload-images.jianshu.io/upload_images/6717924-24c0c7712094733f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-##[fvd speed dial](https://www.crx4chrome.com/extensions/ckdmacmopjaoijgapmfhbggpijooeadm/)
+## [fvd speed dial](https://www.crx4chrome.com/extensions/ckdmacmopjaoijgapmfhbggpijooeadm/)
 ![建立各种快捷的，让自己快速的跳转,你还可以进行分类](https://upload-images.jianshu.io/upload_images/6717924-6b4ee3c06a69c8a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-###以下为知乎上chrome插件了一些推荐,好用的插件真的太多了，我就不一一例举了
+## [哒哒划词翻译](https://github.com/waynecz/dadda-translate-crx)
+
+ ![哒哒划词翻译](https://camo.githubusercontent.com/b31c5874d858dda94e0532d558c4731218f18414/68747470733a2f2f7261772e6769746861636b2e636f6d2f7761796e65637a2f64616464612d7472616e736c6174652d6372782f6d61737465722f7372632f6173736574732f70726573656e746174696f6e2e676966)
+### 以下为知乎上chrome插件了一些推荐,好用的插件真的太多了，我就不一一例举了
 [Gestures for Chrome](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo%3Futm_source%3Dchrome-ntp-icon)拖动一下你就能跳转
 [LastPass插件下载](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 一款帮您管理网站密码的插件
 [一键管理所有扩展](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/%25E4%25B8%2580%25E9%2594%25AE%25E7%25AE%25A1%25E7%2590%2586%25E6%2589%2580%25E6%259C%2589%25E6%2589%25A9%25E5%25B1%2595/niemebbfnfbjfojajlmnbiikmcpjkkja%3Futm_source%3Dchrome-app-launcher-info-dialog) 
