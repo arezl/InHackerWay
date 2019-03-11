@@ -24,7 +24,7 @@
 ### 以下为知乎上chrome插件了一些推荐,好用的插件真的太多了，我就不一一例举了
 [Gestures for Chrome](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo%3Futm_source%3Dchrome-ntp-icon)拖动一下你就能跳转  
 [LastPass插件下载](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 一款帮您管理网站密码的插件  
-[一键管理所有扩展](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/%25E4%25B8%2580%25E9%2594%25AE%25E7%25AE%25A1%25E7%2590%2586%25E6%2589%2580%25E6%259C%2589%25E6%2589%25A9%25E5%25B1%2595/niemebbfnfbjfojajlmnbiikmcpjkkja%3Futm_source%3Dchrome-app-launcher-info-dialog)   
+[一键管理所有扩展](https://chrome.google.com/webstore/detail/kfjmkgngkgpgjdoealkmmajmmhpnffoj/)   
 [Adblock Plus](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)屏蔽广告的利器
 [有道云笔记网页剪报](https://www.crx4chrome.com/extensions/joinpgckiioeklibflapokicmndlcnef/)谁用谁知道，方便的知识管理工具  
 [instapaper](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/instapaper/ldjkgaaoikpmhmkelcgkgacicjfbofhh)不能马上阅读的文章，可以先保存起来，然后你的手机端电脑端都可以看  
