@@ -23,8 +23,8 @@
 
  ![哒哒划词翻译](https://camo.githubusercontent.com/b31c5874d858dda94e0532d558c4731218f18414/68747470733a2f2f7261772e6769746861636b2e636f6d2f7761796e65637a2f64616464612d7472616e736c6174652d6372782f6d61737465722f7372632f6173736574732f70726573656e746174696f6e2e676966)
 ### 以下为知乎上chrome插件了一些推荐,好用的插件真的太多了，我就不一一例举了
-[Gestures for Chrome](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo%3Futm_source%3Dchrome-ntp-icon)拖动一下你就能跳转 
-[LastPass插件下载](https://link.zhihu.com/?  target=https%3A//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 一款帮您管理网站密码的插件  
+[Gestures for Chrome](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/crxmouse-chrome-gestures/jlgkpaicikihijadgifklkbpdajbkhjo%3Futm_source%3Dchrome-ntp-icon)拖动一下你就能跳转  
+[LastPass插件下载](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) 一款帮您管理网站密码的插件  
 [一键管理所有扩展](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/%25E4%25B8%2580%25E9%2594%25AE%25E7%25AE%25A1%25E7%2590%2586%25E6%2589%2580%25E6%259C%2589%25E6%2589%25A9%25E5%25B1%2595/niemebbfnfbjfojajlmnbiikmcpjkkja%3Futm_source%3Dchrome-app-launcher-info-dialog)   
 [Adblock Plus](https://link.zhihu.com/?target=https%3A//chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb)屏蔽广告的利器
 [有道云笔记网页剪报](https://www.crx4chrome.com/extensions/joinpgckiioeklibflapokicmndlcnef/)谁用谁知道，方便的知识管理工具  
