@@ -39,10 +39,12 @@
 - [11款插件让你的Chrome成为全世界最好用的浏览器！｜ Chrome插件推荐～](https://zhuanlan.zhihu.com/p/27196557)
 
 第一次使用简书markdown编辑文章挺方便的
-<details><summary>detail标签</summary><br>
-detail
+<details><summary>隐藏技能</summary><br>
+推荐用google,如果搜索不到，请翻译成英文再搜索
+
+
 <br>
 <br>
 </details>
-***求赞赏!***
+
 
