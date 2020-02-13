@@ -1,0 +1,29 @@
+{
+    "DefaultNoteBookGuid": "",
+    "DailyNoteBookGuid": "",
+    "DailySchemeNoteGuid": "",
+    "DailyConcludeNoteGuid": "",
+    "ScheduleNoteGuid": "",
+    "evernoteShortSchemeStartUrl": "",
+    "InvokeAndRead": [
+        {
+            "InvokeWords": [
+                ""
+            ],
+            "NoteInfo": {
+                "NoteGuid": ""
+            },
+            "Action": "Read"
+        }
+    ],
+    "TomotoDefault": [
+        "番茄时间30分钟",
+        "烧水10分钟"
+    ],
+    "LabelNotes": [
+        {
+            "NoteGuid": "",
+            "title": ""
+        }
+    ]
+}
